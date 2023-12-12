@@ -1,0 +1,2 @@
+g++ -o ultimate_tic_tac_toe ultimate_tic_tac_toe.cpp
+./ultimate_tic_tac_toe
